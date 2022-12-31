@@ -18,23 +18,23 @@
                         </svg>
                     </a>
                 </li>
-                <li class="ml-16">
+                <li class="md:ml-16 mt-3 md:mt-0">
                     <a href="#" class="hover:text-gray-300">
                         Movies
                     </a>
                 </li>
-                <li class="ml-6">
+                <li class="md:ml-6 mt-3 md:mt-0">
                     <a href="#" class="hover:text-gray-300">
                         TV Shows
                     </a>
                 </li>
-                <li class="ml-6">
+                <li class="md:ml-6 mt-3 md:mt-0">
                     <a href="#" class="hover:text-gray-300">
                         Actors
                     </a>
                 </li>
             </ul>
-            <div class="flex items-center">
+            <div class="flex flex-col md:flex-row items-center">
                 <div class="relative">
                     <input type="text" class="bg-gray-800 text-sm rounded-full w-64 px-4 pl-8 py-1 focus:outline-none focus:shadow-outline" placeholder="Search">
                     <div class="absolute top-0">
@@ -43,7 +43,7 @@
                         </svg>
                     </div>
                 </div>
-                <div class="ml-4">
+                <div class="md:ml-4 mt-3 md:mt-0">
                     <a href="#">
                         <img src="/img/avatar.jpg" alt="avatar" class="rounded-full w-8 h-8">
                     </a>
